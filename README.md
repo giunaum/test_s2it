@@ -1,7 +1,6 @@
 <h1> Avaliação Técnica
 
-<br>
-<p> Utilizar a linguagem java, nos casos que couber, utilizar recursos da API.
+<h6> * Utilizar a linguagem java, nos casos que couber, utilizar recursos da API.
  
 <h4> 1 - Acerca de sistemas de desenvolvimento web, assinale a opção correta.
 <p> A (<b>X</b>) - Servlet é uma classe do Java que possibilita ampliar os recursos de servidores web, desenvolvida para permitir conteúdos dinâmicos orientados ao usuário.</b>
